@@ -18,7 +18,7 @@
     "react-slick": "^0.30.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ваш-username.github.io/имя-репозитория",
+  "homepage": "https://musikshr.github.io/citygroup",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
