@@ -2,7 +2,7 @@
   "name": "realestate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://musikshr.github.io/citygroup/src",
+  "homepage": "https://musikshr.github.io/citygroup/docs",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
